@@ -1,2 +1,5 @@
 # hello-world
-# for the study GitHub
+
+this repository for the study GitHub
+
+Новая запись
